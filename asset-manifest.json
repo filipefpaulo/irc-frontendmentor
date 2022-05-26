@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/irc-frontendmentor/static/css/main.79e5d7c6.css",
+    "main.js": "/irc-frontendmentor/static/js/main.39ffc593.js",
+    "static/media/illustration-thank-you.svg": "/irc-frontendmentor/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/irc-frontendmentor/index.html",
+    "static/media/icon-star.svg": "/irc-frontendmentor/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.79e5d7c6.css.map": "/irc-frontendmentor/static/css/main.79e5d7c6.css.map",
+    "main.39ffc593.js.map": "/irc-frontendmentor/static/js/main.39ffc593.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79e5d7c6.css",
+    "static/js/main.39ffc593.js"
+  ]
+}
