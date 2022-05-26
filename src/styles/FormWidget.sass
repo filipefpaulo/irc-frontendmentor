@@ -1,0 +1,64 @@
+.content
+  background-color: var(--color-darker-blue)
+  padding: 25px
+  height: fit-content
+  align-self: center
+  border-radius: 30px
+  width: 400px
+
+  @media screen and ( max-width: 375px )
+    width: 330px
+
+.rating
+  img
+    background-color: var(--color-dark-blue)
+    padding: 17px
+    border-radius: 50%
+    margin: 10px 0 20px
+    @media screen and ( max-width: 375px )
+      padding: 15px
+
+  h1
+    font-weight: 700
+    font-size: 25px
+    margin: 0 0 7px
+
+  p
+    color: var(--color-medium-grey)
+
+  button
+    background-color: var(--color-orange)
+    width: 100%
+    border-radius: 100px
+    padding: 17px 0 14px
+    margin-top: 20px
+    font-weight: 700
+    border: none
+
+    &:hover
+      background-color: var(--color-white)
+      color: var(--color-orange)
+
+.thankYou
+  display: flex
+  flex-direction: column
+  align-items: center
+
+  img
+    width: 150px
+    margin: 20px 0 30px
+
+  .selectedRate
+    background-color: var(--color-dark-blue)
+    padding: 8px 20px 5px
+    border-radius: 100px
+    color: var(--color-orange)
+    margin-bottom: 50px
+
+  h1
+    margin: 0 0 15px
+
+  .thankYouMessage
+    color: var(--color-medium-grey)
+    text-align: center
+    margin: 0 0 15px

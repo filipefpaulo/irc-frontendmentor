@@ -1,0 +1,21 @@
+.rates
+  display: flex
+  justify-content: space-between
+  margin: 20px 0 0
+
+  button
+    border-radius: 50%
+    width: 50px
+    height: 50px
+    background-color: var(--color-dark-blue)
+    margin: 0
+    @media screen and ( max-width: 375px )
+      width: 46px
+      height: 46px
+
+    &:hover
+      color: var(--color-white)
+      background-color: var(--color-orange)
+
+  .disabled:disabled
+    background-color: var(--color-light-grey)
