@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/filipefpaulo/interactive-rating-component)
+- Solution URL: [GitHub](https://github.com/filipefpaulo/irc-frontendmentor)
 - Live Site URL: [GitHub Pages](https://filipefpaulo.github.io/irc-frontendmentor/)
 
 ## My process
