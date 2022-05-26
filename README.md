@@ -1,46 +1,53 @@
-# Getting Started with Create React App
+# Frontend Mentor - Interactive rating component solution
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-### `yarn start`
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Overview
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### The challenge
 
-### `yarn test`
+Users should be able to:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Select and submit a number rating
+- See the "Thank you" card state after submitting a rating
 
-### `yarn build`
+### Screenshot
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![](./assets/RatingPage.png)
+![](./assets/ThankYouPage.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Links
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Solution URL: [GitHub](https://github.com/filipefpaulo/interactive-rating-component)
+- Live Site URL: [GitHub Pages](https://filipefpaulo.github.io/irc-frontendmentor/)
 
-### `yarn eject`
+## My process
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Built with
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [React](https://reactjs.org/) - JS library
+- TypeScript
+- SASS
+- Flexbox
+- Mobile-first workflow
+- gh-pages (for deploy)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Author
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [GitHub](https://github.com/filipefpaulo)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/filipefpaulo)
+- [LinkedIn](https://www.linkedin.com/in/filipefpaulo/)
